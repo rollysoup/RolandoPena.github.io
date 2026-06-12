@@ -20,7 +20,7 @@ A.S.T Computer Science - Los Angeles City College
 - Python
 - Java
 - SQL
-- C#
+- C++
 
 ### Data Analysis & Visualization
 - Tableau
