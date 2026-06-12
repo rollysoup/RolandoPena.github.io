@@ -46,10 +46,10 @@ Analyzed global video game sales data to identify trends across publishers, plat
 - Python
 - Data Cleaning
 - Data Visualization
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis
 
 ### Healthcare Data Analysis Projects
-A collection of projects focused on healthcare datasets, including patient outcomes, hospital performance, and operational analytics.
+A collection of projects focused on healthcare datasets, includinghospital performance and operational analytics.
 
 **Skills Used:**
 - Python
@@ -66,14 +66,6 @@ Projects exploring inventory management, sales performance, and operational effi
 - Data Visualization
 
 ---
-
-## Certifications
-- Google Data Analytics Professional Certificate
-- Additional certifications currently in progress
-
----
-
-
 ## Current Goals
 - Build a strong healthcare analytics portfolio
 - Develop advanced SQL and Python skills
