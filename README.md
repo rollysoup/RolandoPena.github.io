@@ -84,8 +84,8 @@ Projects exploring inventory management, sales performance, and operational effi
 
 ## Connect With Me
 
-[LinkedIn]: (https://www.linkedin.com/in/rolando-pena/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/rolando-pena/)
 
-[Email]: (pena.rolando@outlook.com)]
+Email: [Email](pena.rolando@outlook.com)]
 
 ---
