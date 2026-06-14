@@ -78,6 +78,6 @@ Projects exploring inventory management, sales performance, and operational effi
 
 [LinkedIn](https://www.linkedin.com/in/rolando-pena/)
 
-[Email](pena.rolando@outlook.com)]
+[Email](pena.rolando@outlook.com)
 
 ---
